@@ -51,7 +51,7 @@ nav ul li a:active,
 nav ul li a:focus {
     color: #13100a;
     background-color: #835151; 
-    outline: none; /* Remove the default outline for focus if needed */
+    outline: none;
 }
 
 
